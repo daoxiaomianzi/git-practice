@@ -4,5 +4,9 @@ nnnnnnn
 
 rrrrr
 
+<<<<<<< HEAD
 ssss
 mmmmm
+=======
+ssss
+>>>>>>> feature1
